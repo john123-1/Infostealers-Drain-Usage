@@ -34,6 +34,8 @@
 | later, before 9:10 PM | 100% | 91% | 9:10 PM | Screenshot ("Heads up…") |
 | 5:38 PM | — | — | — | This investigation session started. It is billed to cloud session credits, not the plan (see 4.4). |
 | **5:41 PM** | **0%** | **0%** | "Starts with your first message" | **Owner used the free Full reset.** Screenshot. Cloud session credit: $99 of $100 left (expires 5 Nov, 3:59 PM). |
+| 6:15 PM | — | — | — | Re-check of cloud sessions and Routines: no new sessions, no changes, Routines still disabled |
+| **~10:51 PM** (screenshot; time from session reset) | **100%** | **13%** | **Tue 3:40 AM** | Screenshot ("On track"). Cloud credit $98 of $100. A reset at 3:40 AM means this window opened ~10:40 PM, so the session hit 100% within ~11 minutes. Cloud session list at 10:51 PM: still no new sessions; this investigation session is billed to promotional credit (~$1.08 total). |
 
 Other details on the Usage page:
 - The weekly limit resets **Wednesday 7:00 PM**, so this week began Wed 30 Sep 7:00 PM.
@@ -68,6 +70,12 @@ What this means:
 Both Routines have the **Shopify**, Claude Docs and Claude Code Remote connectors attached. They are disabled, but those connectors are still authorized on the account. Review them (Section 6).
 
 ## 4. Analysis
+
+### 4.0 After the 5:41 PM reset (strongest evidence so far)
+- In about 5 hours after the reset, weekly usage went from **0% to 13%**. The current session hit **100%**.
+- The windows fit back-to-back chaining again: ~5:40 PM to ~10:40 PM, then a new window from ~10:40 PM that was **full within ~11 minutes**.
+- None of this shows up in Claude Code cloud sessions or Routines. This investigation session is billed to cloud promotional credit.
+- **If the owner didn't use chats, Cowork, Claude in Chrome, the desktop app or the mobile app between 5:41 PM and 10:51 PM, this is very likely usage the owner didn't start.** It may come from another person or a process holding a valid session. I can't tell which surface it came through.
 
 ### 4.1 How fast session usage feeds weekly usage
 - 1:14 to 1:25 AM: session +32 points, weekly +3 points.
